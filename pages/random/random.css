@@ -1,0 +1,42 @@
+
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+#dec{
+   background-color:chocolate;
+   height: 2500px;
+}
+
+header{
+    background-color: brown;
+    height: 70px;
+   }
+
+
+.block{
+   
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding-top: 12px;
+
+  
+}
+
+.container{
+   width: 600px;
+   margin: 0 auto;
+   align-items: center;
+
+   
+}
+#rnd{
+  padding-top: 40px;
+  padding-left: 200px;
+}
+.card{
+    align-items: center;
+}

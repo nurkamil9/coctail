@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+#dec{
+   background-color:chocolate;
+   height: 2500px;
+}
+
+header{
+    background-color: brown;
+    height: 70px;
+   }
+
+
+#block{
+   
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding-top: 12px;
+
+  
+}
+
+.container{
+   width: 400px;
+   margin: 0 auto;
+   align-items: center;
+
+   
+}
+#detal{
+  padding-top: 40px;
+  padding-left: 200px;
+}
+#cards{
+  background-color: aliceblue; 
+  border-radius: 10px;
+  padding-right: 40px;
+}
+.names{
+    text-align: center;
+    color: blue;
+}

@@ -1,0 +1,45 @@
+*{
+     box-sizing: border-box;
+     margin: 0px;
+     padding: 0px;
+}
+#dec{
+    background-color:chocolate;
+}
+
+header{
+     background-color: brown;
+     height: 70px;
+    }
+
+
+.block{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 12px;
+
+   
+}
+
+.container{
+    width: 600px;
+    margin: 0 auto;
+    
+}
+#root{
+    padding-top:  40px; ;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-left: 100px;
+    text-align: center;
+}
+#cards{
+    width: 150px;
+
+}
+.img{
+    width: 100%;
+}

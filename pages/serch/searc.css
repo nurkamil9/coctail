@@ -1,0 +1,45 @@
+header{
+    background-color: brown;
+    height: 90px;
+}
+
+#inp{
+    width: 500px;
+}
+
+.block{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    
+}
+.container{
+    width: 1500px;
+    margin: 0 auto;
+}
+
+#values{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding-top: 30px;
+    padding-left: 50px;
+    
+}
+.card{
+align-items: center;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+#dec{
+   background-color:chocolate;
+   height: 2000px;
+}
+
+
+
+
